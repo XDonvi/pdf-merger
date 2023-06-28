@@ -1,5 +1,5 @@
 # pdf-merger
-A simple shell program that merge multiple pdf files
+A simple python script that merge multiple pdf files
 
 A merge_pdf_files function is defined which takes a list of PDF filenames to merge and the desired output filename.
 The function uses the PyPDF2 library to merge the specified PDF files and saves the result in the output file.
